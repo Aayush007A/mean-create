@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+
+body 
+{ 
+    margin: 0; 
+    /* background-color: rgb(230, 210, 252); */
+    background-color: rgb(202, 254, 236);
+    /* background-image: url('nightcat.jpg');
+    overflow: hidden;
+    z-index: -1; */
+}

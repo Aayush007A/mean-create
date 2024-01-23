@@ -1,0 +1,23 @@
+
+.header{
+
+    border: 1px solid black;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.route:hover{
+    color: rgb(255, 0, 238);
+}
+.route:active{
+    color:rgb(255, 0, 238);
+}
+.spacer{
+    flex: 1 1 auto;
+}
